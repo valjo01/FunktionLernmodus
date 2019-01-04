@@ -97,8 +97,7 @@
 				A748D75521C47205001E83DC /* Question.swift */,
 				A748D75421C47205001E83DC /* QuestionBank.swift */,
 				A748D75F21C54137001E83DC /* QuestionBankRettonaut.swift */,
-				A748D77321C929C4001E83DC /* QuestionJson1.swift */,
-				A748D77521C92BD0001E83DC /* QuestionBankJson1.swift */,
+				A751C34B21DF7BC200FE0A37 /* trashable */,
 			);
 			path = Modals;
 			sourceTree = "<group>";
@@ -111,6 +110,15 @@
 				A748D73F21C469F3001E83DC /* LaunchScreen.storyboard */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		A751C34B21DF7BC200FE0A37 /* trashable */ = {
+			isa = PBXGroup;
+			children = (
+				A748D77321C929C4001E83DC /* QuestionJson1.swift */,
+				A748D77521C92BD0001E83DC /* QuestionBankJson1.swift */,
+			);
+			path = trashable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

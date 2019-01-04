@@ -7,6 +7,13 @@
 //
 
 import Foundation
+//
+//struct QuestionBank: Codable {
+//    var questions = [Question]()
+//}
+//
+
+
 
 class QuestionBank{
     var questionList = [Question]() // initialisiertes Array, viele Obj. vom Typ Question
